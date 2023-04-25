@@ -1443,7 +1443,6 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.faveSticker.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.forwardMessages.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.getAdminsWithInvites.html</loc></url>
-<url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.getAllChats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.getAllDrafts.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.getAllStickers.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.getArchivedStickers.html</loc></url>
