@@ -39634,7 +39634,7 @@
   "3606": {
     "doc": "InputCheckPasswordSRP",
     "title": "Type: InputCheckPasswordSRP",
-    "content": " Back to types index . Possible values (constructors): . inputCheckPasswordEmpty . inputCheckPasswordSRP . Methods that return an object of this type (methods): .  ",
+    "content": " Back to types index . You can also directly provide a password as a string. Possible values (constructors): . inputCheckPasswordEmpty . inputCheckPasswordSRP . Methods that return an object of this type (methods): .  ",
     "url": "https://docs.madelineproto.xyz/API_docs/types/InputCheckPasswordSRP.html#type-inputcheckpasswordsrp",
     "relUrl": "/API_docs/types/InputCheckPasswordSRP.html#type-inputcheckpasswordsrp"
   }
