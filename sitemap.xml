@@ -2097,6 +2097,9 @@
 <url><loc>https://docs.madelineproto.xyz/Info.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/API.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/AsyncTools.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Broadcast/Action.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Broadcast/Progress.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Broadcast/Status.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Coroutine.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Db/DbArray.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Db/DbPropertiesFactory.html</loc></url>
@@ -2119,6 +2122,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/MyTelegramOrgWrapper.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/PTSException.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/PsrLogger.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/RPCError/FloodWaitError.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/RPCErrorException.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/ResponseException.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/SecurityException.html</loc></url>
@@ -2126,6 +2130,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Settings/Auth.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Settings/Connection.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Settings/Database/DatabaseAbstract.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Settings/Database/DriverDatabaseAbstract.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Settings/Database/Memory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Settings/Database/Mysql.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Settings/Database/Postgres.html</loc></url>
@@ -2162,6 +2167,7 @@
 <url><loc>https://docs.madelineproto.xyz/completePhoneLogin.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/completeSignup.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/ASYNC.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/docs/BROADCAST.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/CALLS.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/CHAT_INFO.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/CONTRIB.html</loc></url>
