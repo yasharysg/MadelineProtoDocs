@@ -2158,6 +2158,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/TL/Exception.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/TL/Types/Button.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/TL/Types/Bytes.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/TL/Types/LoginQrCode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/TON/API.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Tools.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/VoIPServerConfig.html</loc></url>
@@ -2177,6 +2178,7 @@
 <url><loc>https://docs.madelineproto.xyz/docs/DIALOGS.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/DOCKER.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/EXCEPTIONS.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/docs/FAQ.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/FEATURES.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/FILES.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/docs/FLOOD_WAIT.html</loc></url>
