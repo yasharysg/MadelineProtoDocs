@@ -470,6 +470,11 @@ jtd.onReady(function(){
   
   initSearch();
   
+  if (window.location.hash) {
+    setTimeout(function () {
+      document.getElementById(window.location.hash.slice(1)).scrollIntoView();
+    }, 200);
+  }
 });
 
 })(window.jtd = window.jtd || {});
