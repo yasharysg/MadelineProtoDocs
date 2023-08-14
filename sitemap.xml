@@ -2279,6 +2279,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Logger.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/LoggerGetter.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/MyTelegramOrgWrapper.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Ogg.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/PTSException.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/ParseMode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/PeerNotInDbException.html</loc></url>
@@ -2326,7 +2327,10 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/TL/Types/Bytes.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/TL/Types/LoginQrCode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Tools.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/VoIP/CallState.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/VoIP/DiscardReason.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/VoIP/Endpoint.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/VoIP/VoIPState.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/VoIPServerConfig.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/</loc></url>
 <url><loc>https://docs.madelineproto.xyz/Participant.html</loc></url>
@@ -2372,6 +2376,5 @@
 <url><loc>https://docs.madelineproto.xyz/getSelf.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/</loc></url>
 <url><loc>https://docs.madelineproto.xyz/phoneLogin.html</loc></url>
-<url><loc>https://docs.madelineproto.xyz/requestCall.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/requestSecretChat.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/update2fa.html</loc></url></urlset>
