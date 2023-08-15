@@ -414,6 +414,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputInvoiceSlug.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputKeyboardButtonUrlAuth.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputKeyboardButtonUserProfile.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputMediaAreaVenue.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputMediaContact.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputMediaDice.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputMediaDocument.html</loc></url>
@@ -573,6 +574,9 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/langPackStringDeleted.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/langPackStringPluralized.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/maskCoords.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/mediaAreaCoordinates.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/mediaAreaGeoPoint.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/mediaAreaVenue.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/message.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionBotAllowed.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionChannelCreate.html</loc></url>
@@ -987,6 +991,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stories.storyViews.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stories.storyViewsList.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stories.userStories.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storiesStealthMode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storyItem.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storyItemDeleted.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storyItemSkipped.html</loc></url>
@@ -1121,6 +1126,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateRecentStickers.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateSavedGifs.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateSavedRingtones.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateSentStoryReaction.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateServiceNotification.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateShort.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateShortChatMessage.html</loc></url>
@@ -1128,6 +1134,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateShortSentMessage.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateStickerSets.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateStickerSetsOrder.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateStoriesStealthMode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateStory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateStoryID.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateTheme.html</loc></url>
@@ -1404,6 +1411,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/contacts.resolvePhone.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/contacts.resolveUsername.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/contacts.search.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/contacts.setBlocked.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/contacts.toggleStoriesHidden.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/contacts.toggleTopPeers.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/contacts.unblock.html</loc></url>
@@ -1693,6 +1701,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stickers.renameStickerSet.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stickers.setStickerSetThumb.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stickers.suggestShortName.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.activateStealthMode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.deleteStories.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.editStory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.exportStoryLink.html</loc></url>
@@ -1707,6 +1716,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.incrementStoryViews.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.readStories.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.report.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.sendReaction.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.sendStory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.toggleAllStoriesHidden.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.togglePinned.html</loc></url>
@@ -1880,6 +1890,8 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/LangPackLanguage.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/LangPackString.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MaskCoords.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/MediaArea.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/MediaAreaCoordinates.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/Message.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MessageAction.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MessageEntity.html</loc></url>
@@ -1975,6 +1987,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StickerPack.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StickerSet.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StickerSetCovered.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/StoriesStealthMode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StoryItem.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StoryView.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StoryViews.html</loc></url>
