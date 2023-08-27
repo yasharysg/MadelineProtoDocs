@@ -478,5 +478,3 @@ jtd.onReady(function(){
 });
 
 })(window.jtd = window.jtd || {});
-
-
