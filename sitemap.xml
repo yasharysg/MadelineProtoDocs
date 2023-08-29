@@ -2212,7 +2212,9 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterRegex.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterReply.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterReplyToSelf.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterRunning.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterSender.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterSenders.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterService.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterTextCaseInsensitive.html</loc></url>
@@ -2226,6 +2228,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/Media/FilterVideo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/Media/FilterVoice.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/ForwardedInfo.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/InlineQuery.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Keyboard/InlineKeyboard.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Keyboard/ReplyKeyboard.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Keyboard.html</loc></url>
@@ -2237,6 +2240,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Media/CustomEmoji.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Media/Document.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Media/DocumentPhoto.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Media/GeoPoint.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Media/Gif.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Media/MaskPosition.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Media/MaskSticker.html</loc></url>
@@ -2284,6 +2288,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/SimpleFilter/IsReply.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/SimpleFilter/IsReplyToSelf.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/SimpleFilter/Outgoing.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/SimpleFilter/Running.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Update.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandlerIssue.html</loc></url>
