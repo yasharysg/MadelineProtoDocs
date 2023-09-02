@@ -2199,6 +2199,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterEnded.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterForwarded.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterFromAdmin.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterFromBot.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterFromSender.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterFromSenders.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Filter/FilterGroup.html</loc></url>
