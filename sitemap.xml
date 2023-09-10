@@ -1309,10 +1309,13 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/auth.sendCode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/auth.signIn.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/auth.signUp.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.allowSendMessage.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.answerWebhookJSONQuery.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.canSendMessage.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.getBotCommands.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.getBotInfo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.getBotMenuButton.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.invokeWebViewCustomMethod.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.reorderUsernames.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.resetBotCommands.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/bots.sendCustomRequest.html</loc></url>
@@ -1702,6 +1705,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stickers.setStickerSetThumb.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stickers.suggestShortName.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.activateStealthMode.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.canSendStory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.deleteStories.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.editStory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stories.exportStoryLink.html</loc></url>
