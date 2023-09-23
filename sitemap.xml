@@ -2437,6 +2437,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/RPCErrorException.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/RemoteUrl.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/ResponseException.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/SecretChats/SecretChat.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/SecretPeerNotInDbException.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/SecurityException.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/Settings/AppInfo.html</loc></url>
