@@ -739,6 +739,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.transcribedAudio.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.translateResult.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.votesList.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.webPage.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/nearestDc.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/notificationSoundDefault.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/notificationSoundLocal.html</loc></url>
@@ -2150,6 +2151,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.TranscribedAudio.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.TranslatedText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.VotesList.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.WebPage.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/payments.BankCardData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/payments.ExportedInvoice.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/payments.PaymentForm.html</loc></url>
